@@ -19,7 +19,7 @@ public class ProyectoDePruebaEnComun {
         System.out.println("Hello, Denise!");
         //You can delete this line and send it back.
 
-        System.out.println("Hello, Mady!");
+        
         //You can delete this line and send it back.
 
     }
