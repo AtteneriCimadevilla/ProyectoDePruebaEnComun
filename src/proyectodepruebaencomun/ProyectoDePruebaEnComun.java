@@ -15,6 +15,13 @@ public class ProyectoDePruebaEnComun {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+        System.out.println("Hello, Denise!");
+        //You can delete this line and send it back.
+
+        System.out.println("Hello, Mady!");
+        //You can delete this line and send it back.
+
     }
-    
+
 }
