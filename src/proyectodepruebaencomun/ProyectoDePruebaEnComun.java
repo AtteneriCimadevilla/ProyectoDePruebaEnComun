@@ -22,7 +22,7 @@ public class ProyectoDePruebaEnComun {
         System.out.println("Hola de nuevo, Mady! Denise me borró tu línea...");
         
         
-        System.out.println("Hello, Denise! perdon por borrarte mady!!!");
+        System.out.println("Estoy haciendo pruebas con ramas.");
 
     }
 
